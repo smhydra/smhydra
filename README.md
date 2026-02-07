@@ -1,7 +1,16 @@
 <div align="center">
 
-<!-- HACKER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00ff88&height=120&section=header&text=ROOT%40HACKER&fontSize=50&fontColor=0d1117&animation=twinkling&fontAlignY=35" width="100%" alt="Header" />
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--  SCI-FI WELCOME — ACCESS AUTHORIZED — WELCOME TO THE GRID            -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=header&text=WELCOME&fontSize=60&fontColor=00ff88&animation=twinkling&fontAlignY=35" width="100%" alt="Welcome" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00d4ff&height=2&section=header" width="100%" alt="Line" />
+
+<!-- SCI-FI WELCOME TYPING - Rotating messages -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=22&duration=4000&pause=1200&color=00D4FF&center=true&vCenter=true&width=720&repeat=true&lines=WELCOME+TO+MY+TERMINAL+%E2%80%A2+ACCESS+AUTHORIZED+%E2%80%A2;ENTER+THE+MATRIX+%E2%80%A2+CONNECTION+SECURE+%E2%80%A2;YOU+ARE+BEING+WATCHED+%E2%80%A2+JUST+KIDDING+%E2%80%A2;SYS.ADMIN+APPROVED+%E2%80%A2+NO+BACKDOORS+HERE+%E2%80%A2)](https://git.io/typing-svg)
+
+<br>
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────┐
@@ -21,21 +30,94 @@
 └─────────────────────────────────────────────────────────────────────────┘
 ```
 
-<!-- TYPING ANIMATION 1 - Main tagline -->
+<!-- SYSTEM CHECK - Boot sequence style -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=12&duration=2500&pause=400&color=00FF88&center=true&vCenter=true&width=620&lines=INIT...+OK+%7C+AUTH...+OK+%7C+FIREWALL...+BYPASSED+%7C+WELCOME)](https://git.io/typing-svg)
+
+<br>
+
+<!-- TYPING ANIMATION 1 - Main tagline (matrix green / cyan) -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3500&pause=800&color=00FF88&center=true&vCenter=true&width=700&lines=SCANNING+FOR+VULNERABILITIES...+FOUND+OPEN+PORTS;EXPLOITATION+FRAMEWORK+LOADED...+METASPLOIT+READY;NETWORK+RECON+COMPLETE...+TARGET+ACQUIRED;AUTHORIZED+ACCESS+ONLY+%E2%9A%A0%EF%B8%8F+%7C+ETHICAL+HACKING)](https://git.io/typing-svg)
 
 <br>
 
-<!-- ANIMATED WAVE / GLITCH BADGES -->
+<!-- ANIMATED WAVE / GLITCH BADGES — color grading: #00FF88 #00D4FF #FF4444 -->
 <img src="https://img.shields.io/badge/STATUS-ONLINE-00FF88?style=for-the-badge&labelColor=0d1117&logo=statuspage" />
-<img src="https://img.shields.io/badge/MODE-STELTH-00FF88?style=for-the-badge&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/PROTOCOL-TCP%2FIP-00D4FF?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/MODE-STEALTH-00D4FF?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/PROTOCOL-TCP%2FIP-00FF88?style=for-the-badge&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/SHELL-ROOT-FF4444?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/VPN-ACTIVE-00FF88?style=for-the-badge&labelColor=0d1117" />
 
 <br>
 
 <!-- SECOND TYPING - Rotating expertise -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=2500&pause=600&color=00D4FF&center=true&vCenter=true&width=600&repeat=true&lines=NMAP+%7C+METASPLOIT+%7C+BURP+SUITE+%7C+WIRESHARK;PACKET+ANALYSIS+%7C+OSI+%7C+SUBNETTING+%7C+ROUTING;PYTHON+%7C+BASH+%7C+POWERSHELL+%7C+AUTOMATION)](https://git.io/typing-svg)
+
+<br>
+
+<!-- ANIMATED PROFICIENCY - Rotating domains -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=800&color=00FF88&center=true&vCenter=true&width=650&repeat=true&lines=EXPLOIT+TOOLS+%E2%9A%A0%EF%B8%8F+%7C+FORENSIC+TOOLS+%E2%9A%A0%EF%B8%8F+%7C+LINUX+PROFICIENCY+%E2%9A%A0%EF%B8%8F;PENTEST+%7C+DFIR+%7C+RED+TEAM+%7C+BLUE+TEAM)](https://git.io/typing-svg)
+
+<br>
+
+<!-- EXPLOIT TOOLS - Animated style badges -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-4e8571ba-4c8b-4a9a-b6a2-64740b4cbeb6.gif" width="28" /> 
+  <b>⚡ EXPLOIT & OFFENSIVE TOOLS</b> 
+  <img src="https://user-images.githubusercontent.com/74038190/212257472-4e8571ba-4c8b-4a9a-b6a2-64740b4cbeb6.gif" width="28" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Metasploit-2596BE?style=for-the-badge&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLMap-00A8E1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/John_the_Ripper-FF6C37?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Hashcat-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Hydra-00FF88?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Cobalt_Strike-FF6B35?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Mimikatz-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Responder-00D4FF?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/BeEF-FF4444?style=for-the-badge" />
+</p>
+
+<!-- FORENSIC TOOLS - Animated style badges -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-2470-4c2a-9436-8d26c2b0c2e0.gif" width="28" /> 
+  <b>🔬 FORENSIC & DFIR TOOLS</b> 
+  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-2470-4c2a-9436-8d26c2b0c2e0.gif" width="28" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Autopsy-00FF88?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Volatility-00D4FF?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/FTK-Forensics-FF6B35?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sleuth_Kit-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/tshark-00FF88?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/EnCase-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/X-Ways-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RegRipper-00D4FF?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Bulk_Extractor-FF4444?style=for-the-badge" />
+</p>
+
+<!-- LINUX & PROFICIENCY - Animated style badges -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="28" /> 
+  <b>🐧 LINUX & SYSTEM PROFICIENCY</b> 
+  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="28" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Parrot_OS-000000?style=for-the-badge&logo=parrotsecurity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux_Kernel-00FF88?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/System_Admin-00D4FF?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" />
+  <img src="https://img.shields.io/badge/Networking-00FF88?style=for-the-badge&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Scripting-FF6B35?style=for-the-badge" />
+</p>
+
+<!-- ANIMATED skill level line -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=14&duration=4000&pause=1000&color=00FF88&center=true&vCenter=true&width=500&repeat=true&lines=PROFICIENCY%3A+EXPLOIT+%E2%9C%94+FORENSIC+%E2%9C%94+LINUX+%E2%9C%94+PENTEST;SKILL+LEVEL%3A+ADVANCED+%7C+CONTINUOUS+LEARNING)](https://git.io/typing-svg)
 
 </div>
 
@@ -202,6 +284,66 @@ tcpdump: listening on eth0, link-type ENIV10MB (Ethernet)...
 
 ---
 
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--  QUOTES — ANONYMOUS / HACKER MINDSET — STANDOUT SECTION             -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="42" /> 
+  <b style="color:#00D4FF"> QUOTES FROM THE SHADOWS </b> 
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="42" />
+</p>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&size=14&duration=5000&pause=1500&color=00FF88&center=true&vCenter=true&width=680&repeat=true&lines=We+are+Anonymous.+We+are+Legion.+We+do+not+forgive.+We+do+not+forget.;The+Internet+is+the+first+thing+humanity+built+that+humanity+doesn%27t+understand.;Knowledge+is+free.+We+are+the+guardians+of+that+freedom.;Behind+every+firewall%2C+there+is+a+human+curiosity.;Expect+us.)](https://git.io/typing-svg)
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+```
+╔═══════════════════════════════════════╗
+║  " We are Anonymous.                  ║
+║    We are Legion.                      ║
+║    We do not forgive.                  ║
+║    We do not forget.                   ║
+║    Expect us. "                       ║
+║         — Anonymous                    ║
+╚═══════════════════════════════════════╝
+```
+
+</td>
+<td width="50%" valign="top">
+
+```
+╔═══════════════════════════════════════╗
+║  " The Internet is the first thing    ║
+║    humanity has built that            ║
+║    humanity doesn't understand. "      ║
+║         — Anonymous                   ║
+╚═══════════════════════════════════════╝
+```
+
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+
+```
+╔═══════════════════════════════════════════════════════════════════════════╗
+║  " In the digital world, the only border is the one between secure       ║
+║    and compromised. Knowledge is free. We are the guardians of that. "   ║
+║                                    — A guy in the shadows                ║
+╚═══════════════════════════════════════════════════════════════════════════╝
+```
+
+</td>
+</tr>
+</table>
+
+<br>
+
+---
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-2470-4c2a-9436-8d26c2b0c2e0.gif" width="36" /> 
   <b> CONNECT — ESTABLISH LINK </b>
@@ -214,15 +356,23 @@ tcpdump: listening on eth0, link-type ENIV10MB (Ethernet)...
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/smhydra)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/smhydra)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/smhydra)
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://app.hackthebox.com/profile/smhydra)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-00D4FF?style=for-the-badge&logo=tryhackme&logoColor=white&labelColor=0d1117)](https://tryhackme.com/p/smhydra)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-00FF88?style=for-the-badge&logo=hackthebox&logoColor=black&labelColor=0d1117)](https://app.hackthebox.com/profile/smhydra)
 
 <br>
 
 <img src="https://komarev.com/ghpvc/?username=smhydra&style=flat-square&color=00FF88&label=PROFILE+HITS" alt="Views" />
 
+<br>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=12&duration=6000&pause=2000&color=00D4FF&center=true&vCenter=true&width=580&repeat=true&lines=With+great+power+comes+great+responsibility.+%E2%80%A2+Authorized+testing+only.;Stay+curious.+Stay+ethical.+Stay+anonymous+in+spirit.)](https://git.io/typing-svg)
+
 ```
-[*] SESSION END — ENCRYPTION VERIFIED | AUTHORIZED TESTING ONLY
+┌─────────────────────────────────────────────────────────────────────────┐
+│  [*] SESSION END                                                        │
+│  [*] ENCRYPTION VERIFIED  |  LOGS CLEARED  |  TUNNEL CLOSED             │
+│  [*] AUTHORIZED TESTING ONLY  —  SEE YOU IN THE MATRIX                 │
+└─────────────────────────────────────────────────────────────────────────┘
 ```
 
 </div>
